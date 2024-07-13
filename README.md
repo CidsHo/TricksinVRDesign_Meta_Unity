@@ -8,4 +8,4 @@ Tricks in VR Design. 一些VR设计的小功能实现方式。
 ```
 <uses-feature android:name="com.oculus.feature.CONTEXTUAL_BOUNDARYLESS_APP" android:required=true>
 ```
-注意，仅对当前应用有效。同时该方法会导致应用无法上架Meta商店，因目前该功能只对少数应用开放。
+*注意，仅对当前应用有效。同时该方法会导致应用无法上架Meta商店，因目前该功能只对少数应用开放。*
