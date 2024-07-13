@@ -1,5 +1,5 @@
-# VR设计笔记
-Tricks in VR Design. 一些VR设计的小功能实现方式。
+# Tricks in VR Design. 一些VR设计的小功能实现方式。
+*仅测试在Unity上开发Meta Quest应用的情况*
 
 ## 关闭应用安全边界 
 *Last Available in 7.13.2024*
