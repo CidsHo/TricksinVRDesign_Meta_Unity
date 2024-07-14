@@ -4,6 +4,7 @@
 
 ## 关闭应用安全边界 
 *Last Available in 7.13.2024*
+
 通过在manifest中添加flag的方式实现：
 1. 在Unity中导入Meta XR SDK
 2. 在Assets/Plugins/Android/Android Manifest.xml中添加以下内容至Application
