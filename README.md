@@ -1,6 +1,6 @@
 # Tricks in VR Design. 
 
-*仅测试在Unity上开发Meta Quest应用的情况*
+*Only tested for Meta Quest app development on Unity*
 
-1. [关闭Quest应用安全边界](https://github.com/CidsHo/BoundlessSetting)
-2. 
+1. [Close Safety Boundary in Quest3](https://github.com/CidsHo/BoundlessSetting)
+2. [Capture the Camera Screenshots in Quest3 and Return](https://github.com/CidsHo/CaptureScreen)
