@@ -1,4 +1,4 @@
-# Tricks in VR Design. 一些VR设计的小功能实现方式。
+# Tricks in VR Design. 
 
 *仅测试在Unity上开发Meta Quest应用的情况*
 
